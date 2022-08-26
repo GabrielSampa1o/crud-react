@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/github-page/static/js/main.281a3dfa.js",
-    "index.html": "/github-page/index.html",
-    "main.281a3dfa.js.map": "/github-page/static/js/main.281a3dfa.js.map"
+    "main.js": "/crud-react/static/js/main.281a3dfa.js",
+    "index.html": "/crud-react/index.html",
+    "main.281a3dfa.js.map": "/crud-react/static/js/main.281a3dfa.js.map"
   },
   "entrypoints": [
     "static/js/main.281a3dfa.js"
